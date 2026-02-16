@@ -1,0 +1,3 @@
+Write-Host "CYB 125 Git Lab"
+$username = Read-Host "Enter your name"
+Write-Host "Hello $username"
